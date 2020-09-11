@@ -9,3 +9,5 @@ tags:
   - prueba
 ---
 Cuerpo del post de ejemplo
+
+![Plano](/img/dimensionesterreno-768x457.png "Plano de Ubicacion de un Terreno")
