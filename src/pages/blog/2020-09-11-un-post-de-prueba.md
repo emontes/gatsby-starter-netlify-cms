@@ -7,6 +7,8 @@ featuredpost: true
 featuredimage: /img/dimensionesterreno-768x457.png
 tags:
   - prueba
+  - plano
+  - lagos
 ---
 Cuerpo del post de ejemplo
 
